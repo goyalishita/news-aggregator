@@ -1,11 +1,11 @@
 # news-aggregator
-###Using Django 
+Using Django 
 
-####Python Modules:
+Python Modules:
 1. BeautifulSoup
 2. requests
 
-####for frontend:
-1.bootstrap 
-2.basic html
-3.css
+For frontend:
+1. bootstrap 
+2. basic html
+3. css
